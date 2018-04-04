@@ -1,1 +1,1 @@
-# jfdz9-homeworks
+# Zadania domowe JFDZ9
