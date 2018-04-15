@@ -9,8 +9,7 @@ Wykonaj stronę o mnie (portfolio), zawierającą:
 * sekcje umiejętności
 * stopkę
                  
-Strona nie powinna być responsywna
-W zadaniu mamy przećwiczyć to co aktualnie umiemy - przećwiczyć podstawowe tagi htmlowe czy nadawanie styli.
+Strona nie powinna być responsywna. W zadaniu mamy przećwiczyć to co aktualnie umiemy - przećwiczyć podstawowe tagi htmlowe czy nadawanie styli.
 
 Pamiętajcie by nie stylować po **id**, od stylowania są **klasy**.
                 

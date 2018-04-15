@@ -6,4 +6,4 @@ Załóż własnego brancha
  - dodaj plik .gitignore z zawartością ".idea"
  
 Będzie to Twój branch na pracę domowe.
-Za każdym razem, przed rozpoczęciem prac należy z mergowac branch master do swojego brancha.
+Za każdym razem, przed rozpoczęciem prac należy zmergowac branch master do swojego brancha.

@@ -14,7 +14,7 @@ Napisz poprawnie semantyczny kod HTML wyświetlający krótką informacje o stro
 Strona powinna przechodzić walidację W3C: [W3C validator](https://validator.w3.org/W3C)
                  
 Wskazówki
-Do wygenerowania tekstu mozesz uzyc: [Lorem Ipsum generator](http://pl.lipsum.com/) 
-Może się przydać: [W3School](https://www.w3schools.com/html/html5_new_elements.asp) 
+* do wygenerowania tekstu mozesz uzyc: [Lorem Ipsum generator](http://pl.lipsum.com/)
+* może się przydać: [W3School](https://www.w3schools.com/html/html5_new_elements.asp) 
 
 Termin wykonania: **21.04.2018**
