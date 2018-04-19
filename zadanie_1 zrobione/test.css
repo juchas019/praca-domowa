@@ -1,0 +1,80 @@
+body {background-color: antiquewhite;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.uklad {
+    margin-left: 240px;
+}
+.mainMenu {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #b9c21b;
+    margin:30px;
+    font-family: cursive;
+    text-align: center;
+    font-size:40px;
+}
+h2 {
+    text-align: center;
+    font-family: "DejaVu Sans";
+}
+
+nav ul {
+    display: inline-block;
+    list-style: none;
+    color: darkred;
+    font-size: 20px;
+}
+
+nav ul:hover {
+    color: #b9c21b;
+    cursor: pointer;
+}
+
+p {
+    color:black;
+    margin: 40px;
+    text-align: justify;
+}
+
+.zdjPlan {
+    margin-left: 60px;
+}
+
+a:hover {
+    color: red;
+}
+
+.navPlan {
+    width: 700px;
+    border: 3px dotted red;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    list-style: none;
+    font-size: 30px;
+}
+
+pre {
+    display: inline-block;
+    margin-left: 1px;
+}
+footer {
+    background-color: #e1d3c1;
+}
+.astro {
+
+    margin-left: 50px;
+}
+header {
+    margin: 10px;
+}
+footer {
+    text-align: center;
+}
